@@ -138,7 +138,6 @@ This command runs whatever code you placed inside the `main()` function in `demo
 - Use `make test` to run all automated tests.
 - Use `make test try="functionName"` to run an individual function's tests.
 - Make sure all tests appear green before submitting.
-- Do not submit compiled files such as `a.out` or `demo.out`.
 
 ## Cleaning Compiled Files
 
